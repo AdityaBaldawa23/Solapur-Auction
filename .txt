@@ -1,0 +1,23 @@
+=============== TO Create Teams ==================
+
+{
+  "teamID": 1,
+  "teamName": "Mumbai Warriors",
+  "teamOwner": "Rahul",
+  "teamTotalPoints": 58000,
+  "teamLogo": "mumbai_warriors_logo.jpg",
+  "teamPlayers": [
+    {
+      "playerName": "Rohit Sharma",
+      "playerID": 1,
+      "soldPoints": 12000,
+      "playerType": "Batsman"
+    },
+    {
+      "playerName": "Jasprit Bumrah",
+      "playerID": 2,
+      "soldPoints": 10000,
+      "playerType": "Bowler"
+    }
+  ]
+}
